@@ -1,4 +1,4 @@
-# Hi there, I'm Amit Kumar! 👋
+# Hi there, I'm Ashutosh Giri! 👋
 
 Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with experience in **React, Node.js, MongoDB**, and **competitive programming**. I love solving complex problems and building scalable web applications.
 
