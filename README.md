@@ -19,11 +19,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with experience 
 
 I've been actively solving problems on **LeetCode, Codeforces, and AtCoder**, regularly participating in contests, and improving my problem-solving skills.
 
-- **LeetCode Problems Solved**: 800+ (Top 8%)
-- **Maximum LeetCode Rating**: 1803
-- **AIR 418 in Weekly Contest 427**
-- **Global Rank 7000 in Meta Hacker Cup**
-- **Solved 1000+ problems across platforms**
+
 
 ## 💼 Projects
 
